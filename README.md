@@ -1,4 +1,4 @@
-# IBM-Watson-Discovery-Service-Connector
+# IBM Watson Discovery Service Connector
 Custom connector to IBM cognitive services from UiPath RPA Studio
 
 What is IBM Watson Discovery? 
